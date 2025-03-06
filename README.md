@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello, world 🌎
 
-<!--
-**adolphopiazza/adolphopiazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Sometimes the biggest secrets of life can have a simple solution*
 
-Here are some ideas to get you started:
+- iOS Developer
+- Little bit of ObjC (improving!)
+- Enthusiast macOS developer
+- Always seeking to improve and learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Take a look at my first app on the App Store: [Tibia More](https://github.com/adolphopiazza/tibiamore-ios)
+#### Also, my [Gist](https://gist.github.com/adolphopiazza)
+
+See ya 👋🏻
